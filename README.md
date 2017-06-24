@@ -1,10 +1,11 @@
 ## Welcome to the OhMyBackup project
 
-Backup is so important that all companies, all personal users use a backup system ...
-Well, unfortunately there is quite a lot of problems: The price of backup softwares, their complexity, their
+Backup is so important that all companies, all personal users should use a backup system ...
+
+Unfortunately there is quite a lot of problems: The price of backup softwares, their complexity, their
 requirements, the size of the data and so much technical problems.
 
-Finally, a such project sounds a very cool and exciting project to run and maintain !
+Finally, a such project sounds a very cool and an exciting project to run and maintain ! :satisfied:
 
 That is why the project OhMyBackup was born.
 
@@ -15,13 +16,12 @@ order to be used on MS Windows OS. At the moment it has not been tested on Mac O
 
 ### Linux 
 
-You need to have the Perl interpreter. On Debian / Ubuntu it is included. If it is not, please consult the package
+You need to have the Python V3 interpreter. On Debian / Ubuntu it is included. If it is not, please consult the package
 installer of your OS to install the latest stable version.
 
 ### Microsoft Windows
 
-You first need to install [CygWin](https://www.cygwin.com/) (version used 2.8.0). During the install phase, you need
-to install the perl package.
+You first need to install [CygWin](https://www.cygwin.com/) (version used 2.8.0). No extra package should be installed.
 
 ### Mac OS X
 
