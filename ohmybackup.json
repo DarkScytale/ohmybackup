@@ -1,0 +1,10 @@
+{
+  // The admin part makes 
+  admin:{
+    omb:{
+      version:0,
+      subversion:0,
+      release:1
+    }
+  }
+}

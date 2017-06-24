@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to the OhMyBackup project
 
-You can use the [editor on GitHub](https://github.com/DarkScytale/ohmybackup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Backup is so important that all companies, all personal users use a backup system ...
+Well, unfortunately there is quite a lot of problems: The price of backup softwares, their complexity, their requirements, the size of the data and so much technical problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Finally, a such project sounds a very cool and exciting project to run and maintain !
 
-### Markdown
+That is why OhMyBackup was born.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Because I firstly designed for Linux OS, OhMyBackup was written on Perl. It is fully compatible with Cygwin in order to be used on MS Windows OS. At the moment it has not been
+tested on Mac OS.
 
-```markdown
-Syntax highlighted code block
+## Installation
 
-# Header 1
-## Header 2
-### Header 3
+This chapter will be filled while the project will grow.
 
-- Bulleted
-- List
+## Commands
 
-1. Numbered
-2. List
+OMB can be run as a command line. The functions are the next ones:
 
-**Bold** and _Italic_ and `Code` text
+### Test the JSON file.
 
-[Link](url) and ![Image](src)
-```
+HERE
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Convert the current JSON file.
 
-### Jekyll Themes
+This fonction is not actually implemented.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DarkScytale/ohmybackup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Configuration
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+OMB uses a single JSON file which will contain the full configuration. Then it will be simple to save.
